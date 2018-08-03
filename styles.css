@@ -1,0 +1,16 @@
+#wrapper,
+        #output-window {
+            margin-top: 35px;
+            position: relative;
+            height: 500px;
+            width: 500px;
+            float: left;
+        }
+
+        #output-window {
+            border: 1px solid #ccc;
+            margin-left: 12px;
+            overflow: scroll;
+            padding-right: 10px;
+            line-height: 1.5;
+        }
